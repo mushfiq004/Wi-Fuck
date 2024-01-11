@@ -8,7 +8,7 @@
 pkg update && pkg upgrade -y
 pkg install root-repo -y
 pkg install git tsu python wpa-supplicant pixiewps iw -y
-git clone https://github.com/showrovbd/wi-fuck 
+git clone https://github.com/mushfiqrhmn/Wi-Fuck 
 cd wi-fuck 
 pip3 install -r requirements.txt
 chmod +x wi-fuck.py
